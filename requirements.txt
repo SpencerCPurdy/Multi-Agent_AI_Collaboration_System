@@ -1,0 +1,15 @@
+gradio
+langchain
+langchain-openai
+openai
+networkx
+matplotlib
+plotly
+pandas
+numpy
+python-dotenv
+pydantic
+aiohttp
+scipy
+reportlab
+pillow
